@@ -40,6 +40,7 @@ d, dùng các môi trường khác nhau : dây thẳng, cong, ngâm trong nướ
 5, Các ứng dụng cần cài: ultra-serialport, Keil-c, driver cho USB-TTL
 
 link:
+https://husteduvn-my.sharepoint.com/:f:/g/personal/phuoc_dh213723_sis_hust_edu_vn/EqgAfzQQAg1AvRDWQw9TUB8BoJUbUf6sXVP2JyAcwM-NCg?e=HrvUUi : Link đầy đủ hơn xíu
 
 https://www.youtube.com/watch?v=PVOxgKheHsY  : Fix lỗi USB-TTL
 
