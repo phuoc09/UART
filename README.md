@@ -1,6 +1,8 @@
 # UART
 1,Ý tưởng:
+
 goc.txt là file text ngẫu nhiên 18kb
+
 UART1: RX:PA10
        TX:PA9
 UART2: RX:PA3
