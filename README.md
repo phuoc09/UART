@@ -24,6 +24,8 @@ Sau khi cài xong ultra-serial-port thì cài để đọc dữ liệu ghi vào 
 coppy 2 file txt lên Unititle6 để so sánh 2 file text khác nhau bao nhiêu?
 
 3,Lưu ý rằng khi thực hiện thì text của file nhan.txt sẽ mất những gói tin đoạn đầu.
+ Hiện tại stm đen đang gửi
+ stm đỏ đang nhận và gửi lên laptop
 
 4, Các bước cần làm:
 
@@ -39,15 +41,13 @@ d, dùng các môi trường khác nhau : dây thẳng, cong, ngâm trong nướ
 
 link:
 
-https://www.youtube.com/watch?v=PVOxgKheHsY
+https://www.youtube.com/watch?v=PVOxgKheHsY  : Fix lỗi USB-TTL
 
-https://www.youtube.com/watch?v=esIyBaXr_HE&t=1053s
+https://www.youtube.com/watch?v=esIyBaXr_HE&t=1053s : truyền UART
 
-https://www.youtube.com/watch?v=OQdwaZ1mIXA&t=648s
+https://www.youtube.com/watch?v=OQdwaZ1mIXA&t=648s : nhận UART-1
 
-https://www.youtube.com/watch?v=pK4p__u2oHg
+https://www.youtube.com/watch?v=pK4p__u2oHg : nhận UART-2
 
-https://www.youtube.com/watch?v=vK7m1JVuKhw&t=323s
-
-https://www.youtube.com/watch?v=bl6BjCr11vo&t=274s
+https://www.youtube.com/watch?v=bl6BjCr11vo&t=274s : tạo project với CubeMX
 
