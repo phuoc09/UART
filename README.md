@@ -35,9 +35,18 @@ b,lên dùng oscillo đo dạng sóng và dự đoán ảnh hưởng của oscic
 
 c, dùng các nguồn khác nhau để cấp điện stm32
 
-d, dùng các môi trường khác nhau : dây thẳng, cong, ngâm trong nước,...
+d, dùng các môi trường khác nhau : dây thẳng, cong, ngâm trong nước, hai sợi dây liền nhau, hai sợi dây tách nhau,...
 
 5, Các ứng dụng cần cài: ultra-serialport, Keil-c, driver cho USB-TTL
+
+6,Slide:
+Các dụng cụ chuẩn bị
+Bước thí nghiệm
+Điều kiện thí nghiệm
+Kết quả
+Lập bảng từng bước tăng tần số, khoảng cách
+Quy trình thí nghiệm ra lưu đồ, setup cho lần đầu chỉ là 1,2 byte pass thì mới truyền chuỗi byte.
+
 
 link:
 https://husteduvn-my.sharepoint.com/:f:/g/personal/phuoc_dh213723_sis_hust_edu_vn/EqgAfzQQAg1AvRDWQw9TUB8BoJUbUf6sXVP2JyAcwM-NCg?e=HrvUUi : Link đầy đủ hơn xíu
